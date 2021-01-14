@@ -3,7 +3,7 @@
 # Installation
 The modules are intended to be installed using composer. If you do not have composer installed (check by entering the command "composer --help" into your terminal), please install it using the following commands:
 
-composer require salecto01web/bharat
+"composer require salecto01web/bharat @dev"
 After installing Salecto theme, you can verify that the installation succeeded by going to the Magento 2 back-end and navigating to Content -> Design -> Themes. If it listed there, you should be happy.
 
 Normally, this theme will never be set as a the main theme for a client, but to set this theme for development purposes on the storefront, go to: Content -> Design -> Configuration and set the Optimus theme on the Store View you wish to use. Do not forget to flush the cache afterwards.
