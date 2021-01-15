@@ -15,6 +15,7 @@
             "registration.php"
         ]
     },
+	"minimum-stability": "dev"
     "repositories": {
         "magento2test-theme": {
             "type": "git",
