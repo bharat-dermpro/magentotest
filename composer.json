@@ -11,11 +11,7 @@
     },
     "version": "100.4.1",
     "require": {
-        "php": "~7.3.0||~7.4.0",
-        "magento/framework": "103.0.*",
-        "magento/theme-frontend-blank": "100.4.*",
-		"salecto01web/bharat": "~2.4.00"
-		
+        "php": "~7.3.0||~7.4.0"		
     },
 	"minimum-stability": "dev",
     "autoload": {
