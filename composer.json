@@ -1,25 +1,13 @@
 {
     "name": "salecto01web/bharat",
     "description": "Theme used by Luma theme",
-    "type": "magento2-theme",
+     "type": "magento2-theme",
     "license": [
-        "OSL-3.0",
-        "AFL-3.0"
+        "OSL-3.0"
     ],
-    "config": {
-        "sort-packages": true
-    },
-    "version": "100.4.1", 
-	"autoload": {
+    "autoload": {
         "files": [
             "registration.php"
         ]
-    },
-	"minimum-stability": "dev"
-    "repositories": {
-        "magento2test-theme": {
-            "type": "git",
-            "url": "git@github.com:bharat-dermpro/magentotest.git"
-        }
     }
 }
