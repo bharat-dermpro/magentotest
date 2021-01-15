@@ -15,7 +15,7 @@
         "magento/framework": "103.0.*",
         "magento/theme-frontend-blank": "100.4.*"
     },
-	"minimum-stability": "dev"
+	"minimum-stability": "dev",
     "autoload": {
         "files": [
             "registration.php"
